@@ -3,7 +3,21 @@ h1 {
 	color: #B512BB;
 	font-family: serif;
 	font-size: 30pt;
-	border: 4px solid #000;
+	border: 4px dashed #000;
 	text-align: center;
 	background-color: #D9C3FF;
+}
+
+body {
+	background-color: white;
+}
+
+a {
+	color: #606;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+}
+
+p {
+	text-align: center;
 }
