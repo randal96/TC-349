@@ -5,6 +5,8 @@ html {
 h1 {
 	text-align: center;
 	color: #595258;
+	font-size: 50px;
+	font-family: Arial;
 }
 
 h2 {
@@ -24,6 +26,7 @@ p {
 	border: double #FFFFE5;
 	font-family:Arial, Helvetica, sans-serif;
 	color: #FFF;
+	padding: 10px;
 }
 	
 body {
@@ -63,6 +66,12 @@ img.center {
 	border: double #FFFFE5;
 	font-family:Arial, Helvetica, sans-serif;
 	color: #FFF;
+	padding: 10px;
+	padding-left: 30px;
+	}
+	
+article {
+	width: 300px;
 	}
 	
 #nav a {
@@ -71,6 +80,7 @@ img.center {
 	padding-left: 20px;
 	text-align: center;
 	margin-right: 30px;
+	border-right: solid #303;
 }
 	
 #nav li {

@@ -1,0 +1,11 @@
+TC 349 – Client Side Web Development 
+Week 6 Writing – Heroku
+
+	The website of heroku, is quite nicely designed. The first element of the site I noticed was the sharp color scale. The color tones are closely related so nothing is distracting and nothing sticks out too evidently.  The layout of the page is organized in block and grid elements horizontally down the page. The navigation bars in the header and the footer of the page allow for quick finding of information and easy routing between the accessible pages. There is even a small section in the footer that feeds the most recent news of the site. I enjoy the design of this website, because it is user friendly. It wouldn’t be a site that I would have to continuously search for exactly what I was looking for because the elements are clearly labeled. 
+
+	One aspect of this website that I find to be extremely efficient is the hovering effects. Seeing as the colors used on the page do not stick out, when the cursor hovers over a link or box in the grid, it illuminates in a color that gives it definition.  I also find the site in itself to look quite professional. This is rather important for a site with such content, because I would assume the majority of the users browsing the site are using the service it provides for a professional purpose.  Overall, the site has great navigation and overall effect. The content of the site is placed strategically and the readability is up to par. I would design a site much like this one, upon entering a working and professional environment. 
+
+
+Layout Design:
+
+	The layout I chose for my work in week 6 is similar to my initial design of this personal site. I made layout changes in order to make my site more readable and user friendly. I shortened block elements, added navigation links, adjusted margins and padding, in addition to a few small design modifications. I really find my layout appealing for a personal site, because it is compact. Since there is not a plethora of information, the design keeps the focus to the middle of the page.
