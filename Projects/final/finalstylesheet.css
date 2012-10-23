@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(images/greyfloral.png);
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#content {
+	background: #F4E3FF url(images/ts.jpg) no-repeat;
+	padding: 15px;
+	border-top: 5px solid #000;
+	border-bottom: 5px solid #000;
+}
+
+#nav {
+	width: 800px;
+	height: 30px;
+	padding-top: 15px;
+	margin-bottom: 70px;
+}
+
+article {
+	margin: 200px 0 0 0;
+}
+
+h1 {
+	margin: 20px 0 20px 0;
+}
+
+h2 {
+	color: #000;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+li {
+	color: #000;
+}
+
+a {
+	color: #000;
+}
