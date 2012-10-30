@@ -1,0 +1,6 @@
+TC 349 – Client Side Web Development
+Writing Week 8 – Happy Cog Critique
+
+	The site of Happy Cog is a well designed, user friendly website.  I’m not at all familiar with the site, but upon first glance it looked to be very organized and welcoming. A great aspect they have right away is a little site description above the initial navigation bar. The color tones of the site are nicely balanced, giving it a warm and pleasant feel, but at the same time being readable and not interfering with the content on the page. The content itself is broken up into horizontal columns stretching down the page with headings such as Work, News and an About section. This keeps every element in a nice blocked area so the page doesn’t look cluttered or disorganized.  At the bottom of the page there is also a footer that very much resembles the header of the site. The footer includes some necessary links, a way to sign up for the sites newsletter and even a thank you to the viewers of the page.
+
+	One thing I would critique about this site is the fact that there is a lot of information on the main page. It is divided up nicely, but even so there is quite a bit of content to scroll down through. 
