@@ -1,0 +1,11 @@
+TC 349 – Client Side Web Development
+Writing – United Pixelworkers Critique
+
+	I have never visited the site of Pixelworkers prior to this assignment, so it was great to see right away a nice navigation bar at the top of the page. I was easily able to locate an about page and read what was available on the site. I’m not particularly fond of the homepage, as it is a bit cluttered. They chose to put a grid pattern of their T-Shirts right on the homepage and it makes things look a bit disorganized. I think this would appear better if those T-Shirts were all on a separate page with a link to them on the homepage.
+
+	The color scheme of the website is quite classic, as there isn’t much to it, but it does allow the site to have a nice readability. Nothing on the pages are your eyes struggling to decipher. The main thing I noticed about the main page is that the majority of the content lies in the footer of the page. It includes links, content bars, areas to type in your personal information, buttons that relay the user to social networking sites and other things of this nature.  The content in this section is nice for the site, but I believe that since there is so much content between the header and the footer, it seems to get lost or people will simply close out the page before scrolling all the way to the bottom. Overall, the site is quite alright. There are a few changes I would make, mostly just taking things off of the main page, but those would be quick and easy fixes. 
+
+
+
+
+	
