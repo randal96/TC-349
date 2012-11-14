@@ -1,0 +1,8 @@
+
+TC 349 - Client Side Web Development 
+Week 10 - Writing Critique - MSU Mobile Web
+
+	
+	The one thing that I enjoy most about websites on mobile devices is their simplicity. For a mobile website to be sufficient it needs to be extremely readable since cell phone screens are very small and it needs to be organized so what the user is trying to find, can be found quickly and accurately. The main reason to use mobile devices is for web searching on the go, so the mobile versions of websites should cater to this factor. The mobile version of MSU’s website is a great example of this. The website’s homepage on a cellular device appears to be a grid pattern made with logos. These link you to certain pages such as, people, news, events, maps, videos and even a link to the full MSU site. 
+
+	Upon first entering the Michigan State University mobile site, I notice many design characteristic that are both visually appealing and accessible. When using a touch screen, the buttons are fashioned big enough that users have little chance of clicking the wrong button by accident.  The search bar at the top is in plain sight, allowing visitors to search the MSU website for any content not found in the navigation bar.  The color scheme, while fitting the MSU colors, are bold enough to be presented in sharp focus on most phones. The buttons available are a good wide spread source of links that most students would need to use. Ranging from Library services to calendar the website does a good job at capturing the student body's most targeted links for the most convenient web browsing on their mobile device.
